@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/mainMenu">
+  <item android:id="@+id/btnYoum7"
+        android:icon="@drawable/youm"
+        android:showAsAction="always"
+        android:orderInCategory="100">
+  </item>
+  <item android:id="@+id/btnFilGoal"
+        android:icon="@drawable/filgoal"
+        android:showAsAction="always"
+        android:orderInCategory="200">
+  </item>
+  <item android:id="@+id/btnWPcentral"
+        android:icon="@drawable/wpcentral"
+        android:showAsAction="always"
+        android:orderInCategory="300">
+  </item>
+</menu>
